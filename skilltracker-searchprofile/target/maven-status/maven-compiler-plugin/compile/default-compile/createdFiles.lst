@@ -1,0 +1,10 @@
+com\skill\tracker\mongo\repository\AssociateProfileRepository.class
+com\skill\tracker\model\ErrorResponse.class
+com\skill\tracker\service\SearchProfileService.class
+com\skill\tracker\mongo\collections\AssociateProfileDetails.class
+com\skill\tracker\service\SearchProfileServiceBean.class
+com\skill\tracker\SkillTrackerSearchApplication.class
+com\skill\tracker\controller\SearchProfileController.class
+com\skill\tracker\model\Profile.class
+com\skill\tracker\monogdb\connection\DbConnectionConfig.class
+com\skill\tracker\model\SkillSet.class

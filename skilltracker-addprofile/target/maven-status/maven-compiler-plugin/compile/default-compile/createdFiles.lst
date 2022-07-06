@@ -1,0 +1,9 @@
+com\skill\tracker\service\AddProfileService.class
+com\skill\tracker\service\AddProfileServiceBean.class
+com\skill\tracker\SkillTrackerApplication.class
+com\skill\tracker\mongo\collections\AssociateProfileDetails.class
+com\skill\tracker\repository\AssociateProfileRepository.class
+com\skill\tracker\controller\AddProfileController.class
+com\skill\tracker\model\Profile.class
+com\skill\tracker\constants\SkillTrackerConstants.class
+com\skill\tracker\model\SkillSet.class
